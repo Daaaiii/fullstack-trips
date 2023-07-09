@@ -1,3 +1,20 @@
+![image](https://github.com/Daaaiii/fullstack-trips/assets/101154455/a16b4a02-71bf-4e8f-8a61-43d8e0bdef9f)
+
+# FULLSTACKS-TRIPS
+Projeto desevolvido na Full Stack Week com [Felipe Rocha](https://github.com/felipemotarocha) criando um site de busca de reserva de hotéis, com autenticação do usuário utilizando login do Google e banco de dados para que os dados das reservas e usuários fiquem armazenados.
+
+## Tecnologias Utilizadas
+- Node.js
+- React
+- Next.js
+- NextAuth.js
+- Tailwind
+- Postgresql
+- Prisma
+- Supabase
+- Typescript
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
