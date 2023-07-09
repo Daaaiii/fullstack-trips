@@ -1,4 +1,5 @@
-![image](https://github.com/Daaaiii/fullstack-trips/assets/101154455/a16b4a02-71bf-4e8f-8a61-43d8e0bdef9f)
+
+![Capa](https://github.com/Daaaiii/fullstack-trips/assets/101154455/48eff01c-fbc1-4cac-b34a-b02fbcf75ee5)
 
 # FULLSTACKS-TRIPS
 Projeto desevolvido na Full Stack Week com [Felipe Rocha](https://github.com/felipemotarocha) criando um site de busca de reserva de hotéis, com autenticação do usuário utilizando login do Google e banco de dados para que os dados das reservas e usuários fiquem armazenados.
