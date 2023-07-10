@@ -1,11 +1,13 @@
-'use client'
-import {signIn} from "next-auth/react"
-
+import QuickSearch from "./components/QuickSearch";
+import RecommendedTrips from "./components/RecommendedTrips";
+import TripSearch from "./components/TripSearch";
 
 export default function Home() {
   return (
     <div>
-      <button onClick={()=> signIn()}>Login</button>
+      <TripSearch />
+      <QuickSearch />
+      <RecommendedTrips />
     </div>
-  )
+  );
 }
