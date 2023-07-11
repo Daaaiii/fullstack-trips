@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 import { Prisma } from "@prisma/client";
 import Link from "next/link";
 
-import UserReservationItem from "./components/UserReservationItem.tsx";
+import UserReservationItem from "./components/UserReservationItem.jsx";
 import Button from "@/components/Button";
 
 const MyTrips = () => {
