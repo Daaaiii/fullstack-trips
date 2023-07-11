@@ -70,7 +70,7 @@ const UserReservationItem = ({ reservation, fetchReservations }: UserReservation
             <p className="font-medium text-sm">R${Number(reservation.totalPaid)}</p>
           </div>
 
-          <Button variant="danger" className="mt-5" onClick={handleDeleteClick}>
+          <Button variant="danger" className="mt-5" onClick={handleDeleteClick} >
             Cancelar
           </Button>
         </div>
